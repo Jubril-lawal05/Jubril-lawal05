@@ -1,35 +1,59 @@
-# Hi, I'm Ayomide Lawal
+# Ayomide Lawal
 
-I work at the intersection of product, systems, analytics, UX, and AI-assisted development.
+### Technical Product & Systems | AI | Data & Analytics
 
-My background combines UX/HCI, product development, business systems, and emerging data analytics skills. I am particularly interested in building and improving products through better workflows, data, and technical systems.
+I work across technical product, business systems, data infrastructure, and AI-enabled product development.
 
-## Current Focus
+My background combines Human-Computer Interaction, Artificial Intelligence, and product development, with experience designing operational workflows, structured data systems, human-in-the-loop AI processes, and technical product implementations.
 
-- Product & Business Systems
-- SQL and Data Analytics
-- Power BI
+Currently expanding my work in SQL, product analytics, and business intelligence.
+
+---
+
+## Featured Work
+
+### [QuikEco Waste Intelligence](https://github.com/Jubril-lawal05/quikeco-waste-intelligence)
+
+Co-founder and product systems lead for an environmental data platform that transforms geotagged waste observations into structured, human-verified data.
+
+My work includes product and workflow design, data infrastructure, AI-assisted screening and enrichment, quality-control systems, contributor operations, and geospatial dataset development.
+
+The public repository documents the product, systems, data, and AI architecture behind the platform.
+
+---
+
+## Focus Areas
+
+- Technical Product & Business Systems
+- AI Product Systems
+- Data Infrastructure
 - Product Analytics
-- AI-Assisted Product Development
-- Technical Product Management
+- UX/HCI
+- AI-Assisted Development
 
-## Selected Work
+---
 
-### QuikEco
-Building the data and product infrastructure for a crowdsourced waste intelligence platform, including contributor workflows, report verification, data quality, and environmental analytics.
+## Education
 
-### Technical Product Development
-Building and evaluating web applications using modern frameworks, APIs, databases, cloud services, and AI-assisted development workflows.
+**Graduate Studies, M.S. Artificial Intelligence — Data Analytics**  
+Indiana Wesleyan University
 
-### Data & Analytics
-Developing projects around SQL, business intelligence, product metrics, data visualization, and data-informed decision-making.
+**M.S. User Experience / Human-Computer Interaction**  
+Arizona State University
 
-## Background
+**B.Eng. Civil Engineering**  
+University of Ilorin
 
-- M.S. User Experience / Human-Computer Interaction, Arizona State University
-- Background in product design, UX research, systems thinking, and technical product development
+---
 
-## Connect
+## Current Development
 
-- Portfolio: https://ayolawal.com
-- LinkedIn: https://www.linkedin.com/in/ayomide-lawal/
+Building a relational analytics layer for QuikEco using synthetic operational data, with a focus on:
+
+`SQL` · `Product Analytics` · `Power BI` · `Data Modeling`
+
+---
+
+## Links
+
+[Portfolio](https://ayolawal.com) · [LinkedIn](https://www.linkedin.com/in/ayomide-lawal/) · [QuikEco Case Study](https://github.com/Jubril-lawal05/quikeco-waste-intelligence)
